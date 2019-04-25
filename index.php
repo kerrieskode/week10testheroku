@@ -1,4 +1,4 @@
 <?php
 
 
-echo "Week 10 Test.";
+echo "Week 10 Test. Updated";
